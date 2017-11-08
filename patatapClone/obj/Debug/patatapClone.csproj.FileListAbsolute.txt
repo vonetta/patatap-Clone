@@ -1,0 +1,9 @@
+C:\Users\steve\Documents\udemy\patatapClone\patatapClone\bin\patatapClone.dll.config
+C:\Users\steve\Documents\udemy\patatapClone\patatapClone\bin\patatapClone.dll
+C:\Users\steve\Documents\udemy\patatapClone\patatapClone\bin\patatapClone.pdb
+C:\Users\steve\Documents\udemy\patatapClone\patatapClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\steve\Documents\udemy\patatapClone\patatapClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\steve\Documents\udemy\patatapClone\patatapClone\obj\Debug\patatapClone.csprojResolveAssemblyReference.cache
+C:\Users\steve\Documents\udemy\patatapClone\patatapClone\obj\Debug\patatapClone.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\udemy\patatapClone\patatapClone\obj\Debug\patatapClone.dll
+C:\Users\steve\Documents\udemy\patatapClone\patatapClone\obj\Debug\patatapClone.pdb
